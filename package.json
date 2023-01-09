@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "type": "module", 
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladshal/hexlet-js.git"
+  },
+  "author": "Shalimov Vladislav <shalimov-vlad132@mail.ru> (https://vk.com/vladislavshalimov)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladshal/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/vladshal/hexlet-js#readme"
+}
